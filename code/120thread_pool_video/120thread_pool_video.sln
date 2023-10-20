@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "120thread_pool_video", "120thread_pool_video.vcxproj", "{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Debug|x64.ActiveCfg = Debug|x64
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Debug|x64.Build.0 = Debug|x64
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Debug|x86.Build.0 = Debug|Win32
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Release|x64.ActiveCfg = Release|x64
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Release|x64.Build.0 = Release|x64
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Release|x86.ActiveCfg = Release|Win32
+		{FB218B81-2C13-480B-A1AC-2281B6FFCAF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D3E991-B044-4878-8CC9-034FF520446B}
+	EndGlobalSection
+EndGlobal
