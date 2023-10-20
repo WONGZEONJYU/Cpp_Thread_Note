@@ -10,8 +10,7 @@ using namespace chrono;
 static constexpr char base16[]{ "0123456789abcdef" };
 static void Base16Encode(const uint8_t* data, const int size, uint8_t* out)
 {
-	for (int i{}; i < size; i++)
-	{
+	for (int i{}; i < size; i++) {
 		const auto t{ data[i] };
 		const auto a{ base16[t >> 4] }, b{ base16[t & 0x0f] };
 		out[i * 2] = a;
